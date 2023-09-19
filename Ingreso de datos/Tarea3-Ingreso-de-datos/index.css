@@ -1,0 +1,28 @@
+
+body { background-color:gainsboro
+
+}
+body { 
+    color: rgb(64, 44, 212);
+}
+.Titulo{
+    color:black;
+}
+
+.Formulario{
+    background-color: rgb(148, 135, 223);
+    margin-top: 100px;
+    padding: 60px;
+    margin-inline: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Times New Roman', Times, serif, 'Trebuchet MS', sans-serif;
+    
+}
+
+h2{
+    text-align: center;
+    color: rgb(131, 15, 214);
+    background: rgb(2, 1, 0);
+}
+body{
+    background-image: url(fondo6.jpg);
+}
